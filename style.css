@@ -5024,10 +5024,11 @@ html[dir="rtl"] .notification-left-aligned {
 .image__title {
     font-size: 2em;
     font-weight: bold;
+  	margin-top: 2em;
 }
 
 .image__description {
-    font-size: 1.25em;
-    margin-top: 0.25em;
-    color:red;
+    font-size: 1.2em;
+    /*margin-top: 0.25em;*/
+    color:black;
 }
